@@ -323,7 +323,7 @@ The project utilizes datasets containing
 ---
 
 # Certificate
-<img width="1448" height="1086" alt="ChatGPT Image Jul 16, 2026, 06_56_40 PM" src="https://github.com/user-attachments/assets/40543f3b-fb9d-4729-aab6-45743d2452eb" />
+<img width="1485" height="1059" alt="image" src="https://github.com/user-attachments/assets/7415e9d2-04c4-4ba2-aa45-63e35f716028" />
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/adf8fc4f-d2d1-46ad-8adc-526d783c2666" />
 
